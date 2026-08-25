@@ -1,5 +1,5 @@
 {
-    "version": "1.0.8",
-    "download_url": "https://github.com/TamactiTamau/GSTR2B-Reconciler/releases/download/v1.0.8/GSTR2B_Pro.exe",
-    "changelog": "Security update"
+    "version": "1.0.9",
+    "download_url": "https://github.com/TamactiTamau/GSTR2B-Reconciler/releases/download/v1.0.9/GSTR2B_Pro_Setup.exe",
+    "changelog": "- Automated release build, bug fixes, and performance improvements."
 }

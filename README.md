@@ -4,10 +4,11 @@
   
   # 🚀 GSTR-2B Auto-Reconciler Pro
   
-  **The Ultimate AI-Powered GST Reconciliation Engine for Professionals**
+  **The Ultimate AI-Powered GST Reconciliation Engine for CAs, Accountants, and Tax Professionals**
   
   [![Version](https://img.shields.io/github/v/release/TamactiTamau/GSTR2B-Reconciler?label=LATEST%20RELEASE&color=0078D7&style=for-the-badge)](https://github.com/TamactiTamau/GSTR2B-Reconciler/releases/latest)
   [![Platform](https://img.shields.io/badge/PLATFORM-WINDOWS%2010%20%7C%2011-success?style=for-the-badge&logo=windows)](https://github.com/TamactiTamau/GSTR2B-Reconciler/releases/latest)
+  [![Privacy](https://img.shields.io/badge/PRIVACY-100%25%20LOCAL%20PROCESSING-blueviolet?style=for-the-badge)](https://github.com/TamactiTamau/GSTR2B-Reconciler/releases/latest)
   [![Downloads](https://img.shields.io/github/downloads/TamactiTamau/GSTR2B-Reconciler/total?style=for-the-badge&color=28a745)](https://github.com/TamactiTamau/GSTR2B-Reconciler/releases/latest)
   
   <br>
@@ -21,94 +22,103 @@
 
 ---
 
-## ✨ Amazing Features
-*   🧠 **Smart AI Matching:** Automatically handles B2B typos, date variations, and invoice number mismatches.
-*   📑 **Complete CDNR Support:** Strict 3-tier matching for Credit and Debit notes.
-*   🎨 **Color-Coded Reports:** Export beautiful, fully formatted Excel sheets instantly.
-*   🔒 **Anti-Tamper Security:** Hardware ID locking and real-time network clock synchronization.
-*   ⚡ **Lightning Fast:** Process thousands of rows of data in seconds with full local privacy.
+## 🌟 Why Choose GSTR-2B Auto-Reconciler Pro?
+Manually matching purchase registers against the GST portal is time-consuming and prone to human error. This software acts as your intelligent assistant, utilizing advanced algorithms to protect your Input Tax Credit (ITC).
+
+*   🧠 **Advanced AI Fuzzy Matching:** Automatically detects and resolves B2B typos, minor date variations, and missing leading zeros in invoice numbers.
+*   📑 **3-Tier CDNR Logic:** Intelligently matches Credit and Debit Notes across exact matches, fuzzy invoice strings, and PAN/Branch level aggregations.
+*   🔒 **100% Data Privacy:** Your financial data **never** leaves your computer. Everything is processed locally on your hardware.
+*   📊 **Instant Analytics:** Built-in "Insights" tab tracks high-risk vendors and historical mismatch counts to help you identify repeating offenders.
+*   🎨 **One-Click Excel Export:** Generates beautiful, color-coded, ready-to-print Excel reports showing exact portal vs. books differences.
 
 ---
 
 ## 📖 How to Use (English)
 
-**Step 1: Upload Your Files** 📤
-Drag and drop your "Books B2B" (Purchase Register) and "Portal 2B" Excel files into the processing boxes.
+**Step 1: Open the Processing Engine** 🖥️
+Launch the app. You will be greeted by a clean, dark-mode optimized interface with dedicated zones for your data.
 <div align="center">
-  <img src="https://placehold.co/800x250/0078D7/FFFFFF?text=Screenshot:+Drag+and+Drop+Files+Here" alt="Step 1 Screenshot">
+  <img src="https://raw.githubusercontent.com/TamactiTamau/GSTR2B-Reconciler/main/assets/step1_empty.jpg" alt="Step 1 Screenshot">
 </div>
 <br>
 
-**Step 2: Run the Engine** ⚙️
-Click the **Execute Matching Engine** button. The AI will instantly start matching your invoices and correcting formatting issues.
+**Step 2: Upload Your Files** 📤
+Simply drag and drop your "Books B2B" (Purchase Register) and "Portal 2B" Excel files into the processing boxes. The boxes will turn green to confirm successful loading.
 <div align="center">
-  <img src="https://placehold.co/800x250/28a745/FFFFFF?text=Screenshot:+Execute+Matching+Engine" alt="Step 2 Screenshot">
+  <img src="https://raw.githubusercontent.com/TamactiTamau/GSTR2B-Reconciler/main/assets/step2_loaded.jpg" alt="Step 2 Screenshot">
 </div>
 <br>
 
-**Step 3: Preview and Export** 📊
-Review the color-coded matching results in the Preview tab, then click **Export Results to Excel** to save your final report!
+**Step 3: Run the AI Engine** ⚙️
+Click the **Execute Matching Engine** button (or press `Ctrl+R`). The AI will instantly start matching your invoices and correcting formatting issues.
 <div align="center">
-  <img src="https://placehold.co/800x250/6c757d/FFFFFF?text=Screenshot:+Export+Results+to+Excel" alt="Step 3 Screenshot">
+  <img src="https://raw.githubusercontent.com/TamactiTamau/GSTR2B-Reconciler/main/assets/step3_executing.jpg" alt="Step 3 Screenshot">
+</div>
+<br>
+
+**Step 4: Preview and Export** 📊
+Review the color-coded matching results in the Preview tab, search for specific vendors, and click **Export Results to Excel** to save your final reconciliation report!
+<div align="center">
+  <img src="https://placehold.co/800x450/6c757d/FFFFFF?text=Screenshot:+Preview+And+Export" alt="Step 4 Screenshot Placeholder">
 </div>
 
 ---
 
 ## 📖 इस्तेमाल कैसे करें (Hindi)
 
-**स्टेप 1: अपनी फाइलें अपलोड करें** 📤
-अपनी "Books B2B" (पर्चेज रजिस्टर) और "Portal 2B" की एक्सेल (Excel) फाइलों को खींचकर (Drag & Drop) बॉक्स में डालें।
+**स्टेप 1: इंजन खोलें** 🖥️
+ऐप चालू करें। आपको स्क्रीन पर डेटा डालने के लिए तीन अलग-अलग बॉक्स दिखाई देंगे। 
+
+**स्टेप 2: अपनी फाइलें अपलोड करें** 📤
+अपनी "Books B2B" (पर्चेज रजिस्टर) और "Portal 2B" की एक्सेल (Excel) फाइलों को खींचकर (Drag & Drop) बॉक्स में डालें। फाइल लोड होने पर बॉक्स का रंग हरा हो जाएगा।
 <div align="center">
-  <img src="https://placehold.co/800x250/0078D7/FFFFFF?text=Screenshot:+Upload+Your+Files" alt="Step 1 Screenshot Hindi">
+  <img src="https://raw.githubusercontent.com/TamactiTamau/GSTR2B-Reconciler/main/assets/step2_loaded.jpg" alt="Step 2 Screenshot Hindi">
 </div>
 <br>
 
-**स्टेप 2: इंजन चलाएं** ⚙️
-**Execute Matching Engine** बटन पर क्लिक करें। सॉफ्टवेयर अपने आप आपके सारे इनवॉइस (Invoices) मिलाना शुरू कर देगा।
+**स्टेप 3: इंजन चलाएं** ⚙️
+**Execute Matching Engine** बटन पर क्लिक करें। सॉफ्टवेयर का AI तुरंत आपके सारे इनवॉइस (Invoices) मिलाना शुरू कर देगा।
 <div align="center">
-  <img src="https://placehold.co/800x250/28a745/FFFFFF?text=Screenshot:+Run+The+Engine" alt="Step 2 Screenshot Hindi">
+  <img src="https://raw.githubusercontent.com/TamactiTamau/GSTR2B-Reconciler/main/assets/step3_executing.jpg" alt="Step 3 Screenshot Hindi">
 </div>
 <br>
 
-**स्टेप 3: प्रीव्यू और एक्सपोर्ट** 📊
-'Preview' टैब में रंग के हिसाब से तैयार नतीजे चेक करें, और अपनी रिपोर्ट सेव करने के लिए **Export Results to Excel** पर क्लिक करें!
-<div align="center">
-  <img src="https://placehold.co/800x250/6c757d/FFFFFF?text=Screenshot:+Preview+And+Export" alt="Step 3 Screenshot Hindi">
-</div>
+**स्टेप 4: प्रीव्यू और एक्सपोर्ट** 📊
+'Preview' टैब में रंग के हिसाब से तैयार नतीजे चेक करें, और अपनी फाइनल रिपोर्ट सेव करने के लिए **Export Results to Excel** पर क्लिक करें!
 
 ---
 
 ## 📖 Use Kaise Karein (Hinglish)
 
-**Step 1: Apni Files Upload Karein** 📤
-Apni "Books B2B" (Purchase Register) aur "Portal 2B" Excel files ko app ke boxes mein drag and drop karein.
+**Step 1: App Open Karein** 🖥️
+App launch karo. Aapko ek clean interface dikhega jahan files dalni hain.
+
+**Step 2: Apni Files Upload Karein** 📤
+Apni "Books B2B" (Purchase Register) aur "Portal 2B" Excel files ko app ke boxes mein drag and drop karein. File load hote hi boxes green ho jayenge.
 <div align="center">
-  <img src="https://placehold.co/800x250/0078D7/FFFFFF?text=Screenshot:+Drag+Drop+Karein" alt="Step 1 Screenshot Hinglish">
+  <img src="https://raw.githubusercontent.com/TamactiTamau/GSTR2B-Reconciler/main/assets/step2_loaded.jpg" alt="Step 2 Screenshot Hinglish">
 </div>
 <br>
 
-**Step 2: Engine Run Karein** ⚙️
-**Execute Matching Engine** button dabao. App automatically aapke saare bills match karna shuru kar dega.
+**Step 3: Engine Run Karein** ⚙️
+Neeche diye gaye **Execute Matching Engine** button ko dabao. App automatically aapke saare bills aur data match karna shuru kar dega.
 <div align="center">
-  <img src="https://placehold.co/800x250/28a745/FFFFFF?text=Screenshot:+Click+Execute" alt="Step 2 Screenshot Hinglish">
+  <img src="https://raw.githubusercontent.com/TamactiTamau/GSTR2B-Reconciler/main/assets/step3_executing.jpg" alt="Step 3 Screenshot Hinglish">
 </div>
 <br>
 
-**Step 3: Preview Aur Export** 📊
-Preview tab mein color-coded results check karein, aur final report save karne ke liye **Export Results to Excel** par click karein!
-<div align="center">
-  <img src="https://placehold.co/800x250/6c757d/FFFFFF?text=Screenshot:+Excel+Export+Karein" alt="Step 3 Screenshot Hinglish">
-</div>
+**Step 4: Preview Aur Export** 📊
+Preview tab mein easily color-coded results check karein, aur final report save karne ke liye bas **Export Results to Excel** par click karein!
 
 ---
 
 ## 📞 Support & Pro License
-Want to remove ads and unlock Pro features? 
-*   💰 **Pricing:** ₹1200 for 2 Years
+Experience the full power of the AI without interruptions. Unlock the Pro version for blazing-fast, ad-free processing.
+*   💰 **Pricing:** ₹1200 for a 2-Year Validity
 *   📱 **WhatsApp:** [+91-8238218272](https://wa.me/918238218272)
 *   📧 **Email:** hrikshitdas.23@gmail.com
 
 <br>
 <div align="center">
-  <i>Developed with ❤️ by Hrikshit Das</i>
+  <i>Engineered with precision by Hrikshit Das</i>
 </div>

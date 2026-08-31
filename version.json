@@ -1,5 +1,5 @@
 {
-    "version": "1.0.16",
-    "download_url": "https://github.com/TamactiTamau/GSTR2B-Reconciler/releases/download/v1.0.16/GSTR2B_Pro_Setup.exe",
+    "version": "1.0.17",
+    "download_url": "https://github.com/TamactiTamau/GSTR2B-Reconciler/releases/download/v1.0.17/GSTR2B_Pro_Setup.exe",
     "changelog": "- Automated release build, bug fixes, and performance improvements."
 }
